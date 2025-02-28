@@ -1,0 +1,162 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+
+  "basics": {
+    "name": "Tobias Holmes",
+    "label": "Versatile Engineer with a passion for IT, automation, and problem-solving across disciplines.",
+    "image": "https://profile-images.xing.com/images/a6be3604c94e4f0a4e4b39273c4e40a2-6/tobias-holmes.256x256.jpg?0.7109448040997297",
+    "email": "tobias@holmeseng.de",
+    "url": "https://tobias.holmeseng.de",
+    "summary": "I am an adaptable and technology-driven engineer with a passion for solving complex problems across multiple domains, from IT infrastructure and automation to biomedical research and rapid prototyping. My background in applied computer science and digital image processing is complemented by hands-on experience in networking, self-hosting, CAD design, and embedded hardware customisation. I thrive in interdisciplinary environments, where I can quickly learn new technologies and apply my knowledge to optimize systems, automate processes, or develop innovative solutions. Whether designing technical workflows, troubleshooting IT systems, or exploring new engineering challenges, I bring a strong analytical mindset, hands-on approach, and a drive for continuous learning.",
+    "location": {
+      "city": "Jülich",
+      "region": "North Rhine-Westphalia",
+      "countryCode": "DE"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/tobias-holmes/"
+      },
+      {
+        "network": "Xing",
+        "url": "https://www.xing.com/profile/Tobias_Holmes"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/tobias-holmes"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "FH Aachen University of Applied Sciences",
+      "position": "Research Associate with Academic Qualification",
+      "startDate": "2022-10",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Supervision of practical courses in applied computer science and digital image processing. Mentoring students in their final projects and conducting research in the field of medical image processing.",
+      "url": "https://www.linkedin.com/school/fh-aachen/",
+      "location": "Jülich (Hybrid)"
+    },
+    {
+      "name": "Freelance",
+      "position": "Freelance Engineer & Technical Consultant",
+      "startDate": "2020-06",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Independent consultant providing IT and engineering solutions for clients, alongside hosting online workshops on technical topics for a general audience.",
+      "location": "Jülich, Remote"
+    },
+    {
+      "name": "FH Aachen University of Applied Sciences",
+      "position": "Research Associate with Academic Qualification",
+      "startDate": "2019-07",
+      "endDate": "2022-10",
+      "highlights": [],
+      "summary": "Responsible for international project coordination \"Biomedical Engineers for Sub-Sahara Africa\" in Kenya and Senegal. Analytical preparation of technical and progress reports in close cooperation with the project management and finance department. Supervision of the establishment of a biomedical engineering laboratory at Aachen University of Applied Sciences for integration into the university's own teaching, as well as for the support of partner universities.",
+      "url": "https://www.linkedin.com/school/fh-aachen/",
+      "location": "Jülich (Hybrid)"
+    },
+    {
+      "name": "FH Aachen University of Applied Sciences",
+      "position": "Research Assistant",
+      "startDate": "2014-08",
+      "endDate": "2019-04",
+      "highlights": [],
+      "summary": "Responsible for the creation and optimisation of various teaching contents. Planning and implementation of accompanying courses.",
+      "url": "https://www.linkedin.com/school/fh-aachen/",
+      "location": "Jülich"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Erfindergeist Jülich e.V.",
+      "position": "Member",
+      "startDate": "2021-12",
+      "endDate": "",
+      "summary": "Contributing to the development of a community maker space by setting up IT infrastructure, organizing hands-on workshops, and assisting in the design and implementation of creative technical projects.",
+      "highlights": [],
+      "url": "https://erfindergeist.org"
+    },
+    {
+      "organization": "Netz ArGe Jülich e.V.",
+      "position": "Network Administrator",
+      "startDate": "2014-12",
+      "endDate": "2016-12",
+      "summary": "Student self-administration in the student hall of residence",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "FH Aachen University of Applied Sciences",
+      "area": "Biomedical Engineering",
+      "studyType": "Master of Science - M.Sc.",
+      "startDate": "2016-08",
+      "endDate": "2019-06",
+      "score": "1,4",
+      "courses": []
+    },
+    {
+      "institution": "FH Aachen University of Applied Sciences",
+      "area": "Biomedical Engineering",
+      "studyType": "Bachelor of Engineering - B.Eng.",
+      "startDate": "2012-09",
+      "endDate": "2016-08",
+      "score": "2,2",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+  {
+    "name": "IT & Infrastructure",
+    "keywords": [
+      "Linux Server Administration",
+      "Docker & Containerization",
+      "Networking",
+      "Infrastructure Automation (Ansible)"
+    ]
+  },
+  {
+    "name": "Software & Programming",
+    "keywords": [
+      "Python",
+      "Ansible",
+      "LaTeX",
+      "SPSS"
+    ]
+  },
+  {
+    "name": "Engineering & Prototyping",
+    "keywords": [
+      "3D Modeling (Autodesk Fusion 360)",
+      "3D Printing & Rapid Prototyping",
+      "Digital Image Processing",
+      "Machine Learning"
+    ]
+  },
+  {
+    "name": "Project Management & Research",
+    "keywords": [
+      "Scientific Research",
+      "Higher Education Teaching",
+      "International Project Coordination",
+      "Technical Documentation",
+      "Problem-Solving & Critical Thinking"
+    ]
+  }
+],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "theme": "jsonresume-theme-kendall",
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
