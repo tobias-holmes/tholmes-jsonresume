@@ -50,7 +50,7 @@
     },
     {
       "name": "FH Aachen University of Applied Sciences",
-      "position": "Wissenschaftlicher Mitarbeiter mit akademischer Qualifikation",
+      "position": "Wissenschaftlicher Mitarbeiter",
       "startDate": "2019-07",
       "endDate": "2022-10",
       "highlights": [],
@@ -60,7 +60,7 @@
     },
     {
       "name": "FH Aachen University of Applied Sciences",
-      "position": "Wissenschaftlicher Mitarbeiter",
+      "position": "Wissenschaftliche Hilfskraft",
       "startDate": "2014-08",
       "endDate": "2019-04",
       "highlights": [],
@@ -82,8 +82,8 @@
     {
       "organization": "Netz ArGe Jülich e.V.",
       "position": "Netzwerkadministrator",
-      "startDate": "2014-12",
-      "endDate": "2016-12",
+      "startDate": "2014",
+      "endDate": "2016",
       "summary": "Selbstverwaltung der Studierenden im Wohnheim",
       "highlights": [],
       "url": ""
