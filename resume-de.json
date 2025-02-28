@@ -1,0 +1,162 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+
+  "basics": {
+    "name": "Tobias Holmes",
+    "label": "Multidisziplinärer Ingenieur mit einer Leidenschaft für IT, Automatisierung und komplexe Problemlösungen.",
+    "image": "https://profile-images.xing.com/images/a6be3604c94e4f0a4e4b39273c4e40a2-6/tobias-holmes.256x256.jpg?0.7109448040997297",
+    "email": "tobias@holmeseng.de",
+    "url": "https://tobias.holmeseng.de",
+    "summary": "Ich bin ein anpassungsfähiger Ingenieur, der technologiegetrieben komplexe Probleme in verschiedenen Bereichen löst – von IT-Infrastruktur und Automatisierung bis hin zu biomedizinischer Forschung und Rapid Prototyping. Mein Hintergrund in angewandter Informatik und digitaler Bildverarbeitung wird durch praktische Erfahrungen in Netzwerktechnik, Self-Hosting, CAD-Design und der Anpassung von Embedded Hardware ergänzt. Ich arbeite effektiv in interdisziplinären Umfeldern, in denen ich schnell neue Technologien erlerne und mein Wissen einsetze, um Systeme zu optimieren, Prozesse zu automatisieren oder innovative Lösungen zu entwickeln. Ob beim Design technischer Workflows, bei der Fehlerbehebung in IT-Systemen oder bei der Erschließung neuer ingenieurtechnischer Herausforderungen – ich bringe eine starke analytische Denkweise, eine praxisorientierte Herangehensweise und die Motivation zum kontinuierlichen Lernen mit.",
+    "location": {
+      "city": "Jülich",
+      "region": "Nordrhein-Westfalen",
+      "countryCode": "DE"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/tobias-holmes/"
+      },
+      {
+        "network": "Xing",
+        "url": "https://www.xing.com/profile/Tobias_Holmes"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/tobias-holmes"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "FH Aachen University of Applied Sciences",
+      "position": "Wissenschaftlicher Mitarbeiter",
+      "startDate": "2022-10",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Betreuung begleitender Lehrveranstaltungen in praktischer und angewandter Informatik sowie digitaler Bildverarbeitung. Unterstützung von Studierenden bei Abschlussprojekten sowie Durchführung von Forschungsarbeiten im Bereich der medizinischen Bildverarbeitung.",
+      "url": "https://www.linkedin.com/school/fh-aachen/",
+      "location": "Jülich (Hybrid)"
+    },
+    {
+      "name": "Freelance",
+      "position": "Freiberuflicher Ingenieur & Technischer Berater",
+      "startDate": "2020-06",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Unabhängiger Berater, der IT- und Ingenieurlösungen für Kunden bereitstellt, sowie Online-Workshops zu technischen Themen für ein allgemeines Publikum veranstaltet.",
+      "location": "Jülich, Remote"
+    },
+    {
+      "name": "FH Aachen University of Applied Sciences",
+      "position": "Wissenschaftlicher Mitarbeiter mit akademischer Qualifikation",
+      "startDate": "2019-07",
+      "endDate": "2022-10",
+      "highlights": [],
+      "summary": "Zuständig für die internationale Projektkoordination \"Biomedical Engineers for Sub-Sahara Africa\" in Kenia und Senegal. Analytische Erstellung von Sach- und Fortschrittsberichten in enger Zusammenarbeit mit der Projektleitung und Finanzabteilung. Betreuung des Aufbaus eines Biomedizintechnischen Labores an der FH Aachen zur Integration in die eigene Lehre sowie zur Unterstützung von Partnerhochschulen.",
+      "url": "https://www.linkedin.com/school/fh-aachen/",
+      "location": "Jülich (Hybrid)"
+    },
+    {
+      "name": "FH Aachen University of Applied Sciences",
+      "position": "Wissenschaftlicher Mitarbeiter",
+      "startDate": "2014-08",
+      "endDate": "2019-04",
+      "highlights": [],
+      "summary": "Zuständig für die Erstellung und Optimierung von verschiedenen Lehrinhalten. Planung und Durchführung von begleitenden Lehrveranstaltungen.",
+      "url": "https://www.linkedin.com/school/fh-aachen/",
+      "location": "Jülich"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Erfindergeist Jülich e.V.",
+      "position": "Mitglied",
+      "startDate": "2021-12",
+      "endDate": "",
+      "summary": "Mitwirkung an der Entwicklung eines Community Makerspace durch den Aufbau von IT-Infrastruktur, Organisation von praxisorientierten Workshops und Unterstützung bei der Gestaltung und Umsetzung kreativer, technischer Projekte.",
+      "highlights": [],
+      "url": "https://erfindergeist.org"
+    },
+    {
+      "organization": "Netz ArGe Jülich e.V.",
+      "position": "Netzwerkadministrator",
+      "startDate": "2014-12",
+      "endDate": "2016-12",
+      "summary": "Selbstverwaltung der Studierenden im Wohnheim",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "FH Aachen University of Applied Sciences",
+      "area": "Biomedizinische Technik",
+      "studyType": "Master of Science - M.Sc.",
+      "startDate": "2016-08",
+      "endDate": "2019-06",
+      "score": "1,4",
+      "courses": []
+    },
+    {
+      "institution": "FH Aachen University of Applied Sciences",
+      "area": "Biomedizinische Technik",
+      "studyType": "Bachelor of Engineering - B.Eng.",
+      "startDate": "2012-09",
+      "endDate": "2016-08",
+      "score": "2,2",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT & Infrastruktur",
+      "keywords": [
+        "Linux Server Administration",
+        "Docker & Containerisierung",
+        "Networking",
+        "Infrastruktur-Automatisierung (Ansible)"
+      ]
+    },
+    {
+      "name": "Software & Programmierung",
+      "keywords": [
+        "Python",
+        "Ansible",
+        "LaTeX",
+        "SPSS"
+      ]
+    },
+    {
+      "name": "Ingenieurwesen & Prototyping",
+      "keywords": [
+        "3D-Modellierung (Autodesk Fusion 360)",
+        "3D-Druck & Rapid Prototyping",
+        "Digitale Bildverarbeitung",
+        "Maschinelles Lernen"
+      ]
+    },
+    {
+      "name": "Projektmanagement & Forschung",
+      "keywords": [
+        "Wissenschaftliche Forschung",
+        "Hochschullehre",
+        "Internationale Projektkoordination",
+        "Technische Dokumentation",
+        "Problemlösung & Kritisches Denken"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "theme": "jsonresume-theme-kendall",
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
