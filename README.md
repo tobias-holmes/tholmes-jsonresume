@@ -44,6 +44,23 @@ To deploy changes:
 - `CNAME`: Custom domain for GitHub Pages.
 - `.gitignore`: Specifies files to be ignored by Git.
 
+## JSON Resume
+
+This project uses the [JSON Resume](https://jsonresume.org/) format, which is a community-driven open-source initiative to create a JSON-based standard for resumes. For more information, visit the [JSON Resume website](https://jsonresume.org/).
+
+## Required Installations
+
+To work with JSON Resume, you need to have the following installed:
+
+- [Node.js](https://nodejs.org/): JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [resumed](https://github.com/rbardini/resumed) / [resume-cli](https://github.com/jsonresume/resume-cli): Command line tool to generate HTML and PDF resumes from JSON Resume files.
+
+You can install `resumed-cli` globally using npm:
+
+```sh
+npm install -g resume-cli
+```
+
 ## License [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This project is licensed under the CC BY-NC-SA 4.0 license. See `LICENSE.md`for the legal code.
