@@ -111,7 +111,14 @@
   ],
   "awards": [],
   "certificates": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Integration of Key-value Attention into Pure and Hybrid Transformers for Semantic Segmentation",
+      "publisher": "In: Palm, C., et al. Bildverarbeitung für die Medizin 2025. BVM 2025. Informatik aktuell, Springer Vieweg, Wiesbaden",
+      "releaseDate": "2025-03-02",
+      "url": "https://doi.org/10.1007/978-3-658-47422-5_71"
+    }
+  ],
   "skills": [
   {
     "name": "IT & Infrastructure",
