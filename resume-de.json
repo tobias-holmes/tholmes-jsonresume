@@ -154,7 +154,7 @@
   "references": [],
   "projects": [],
   "meta": {
-    "theme": "jsonresume-theme-kendall",
+    "theme": "jsonresume-theme-kendall-german",
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
