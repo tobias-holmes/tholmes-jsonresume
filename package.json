@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "jsonresume-theme-kendall": "git@github.com:tobias-holmes/jsonresume-theme-kendall.git",
-    "jsonresume-theme-kendall-german": "^0.1.0"
+    "jsonresume-theme-kendall-german": "git@github.com:tobias-holmes/jsonresume-theme-kendall-de.git"
   }
 }
