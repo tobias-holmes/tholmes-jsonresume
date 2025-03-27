@@ -12,9 +12,16 @@ mkdir -p de
 OUTPUT_EN="en/index.html"
 OUTPUT_DE="de/index.html"
 
+# Define the themes
+THEME_EN="kendall"
+THEME_DE="kendall-german"
+
 # Export the resumes to HTML using resume-cli
-resumed export "$RESUME_EN" --output "$OUTPUT_EN"
-resumed export "$RESUME_DE" --output "$OUTPUT_DE"
+resume export -r "$RESUME_EN" -t $THEME_EN "$OUTPUT_EN"
+resume export -r "$RESUME_DE" -t $THEME_DE "$OUTPUT_DE"
+# # Export the resumes to HTML using resume-cli
+# resumed export "$RESUME_EN" --output "$OUTPUT_EN"
+# resumed export "$RESUME_DE" --output "$OUTPUT_DE"
 
 # Function to adapt the HTML files
 adapt_html() {
