@@ -11,11 +11,19 @@ To update the resume, edit the respective JSON files:
 
 ## Preview
 
-To preview the resume locally:
+### To preview a single resume page locally:
+
+1. test a single resume with
+   ```sh
+   resume server -r <resume-file.json> -t <theme-name>
+   ```
+2. Open your browser and navigate to `http://localhost:4000` to view the resume.
+
+### To preview the complete resume page with language switcher:
 
 1. Run the `resume2html.sh` script to generate the HTML files for both versions:
    ```sh
-   ./resume2html.sh
+   sh ./resume2html.sh
    ```
 2. Start a local web server (e.g., using Python):
    ```sh
@@ -43,6 +51,7 @@ To deploy changes:
 - `en/index.html`: Generated HTML for the English resume.
 - `CNAME`: Custom domain for GitHub Pages.
 - `.gitignore`: Specifies files to be ignored by Git.
+- `package.json`: Required npm modules, i.e. custom themes
 
 ## JSON Resume
 
@@ -59,6 +68,12 @@ You can install `resumed-cli` globally using npm:
 
 ```sh
 npm install -g resume-cli
+```
+
+To use the customised themes install them using npm:
+
+```sh
+npm install
 ```
 
 ## License [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
