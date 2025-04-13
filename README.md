@@ -15,7 +15,7 @@ To update the resume, edit the respective JSON files:
 
 1. test a single resume with
    ```sh
-   resume server -r <resume-file.json> -t <theme-name>
+   resume serve -r <resume-file.json> -t <theme-name>
    ```
 2. Open your browser and navigate to `http://localhost:4000` to view the resume.
 
