@@ -149,7 +149,15 @@
       "Problem-Solving & Critical Thinking"
     ]
   }
-],
+  ],
+  "languages": [{
+    "language": "German",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
   "interests": [],
   "references": [],
   "projects": [],

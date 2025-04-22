@@ -150,6 +150,14 @@
       ]
     }
   ],
+  "languages": [{
+    "language": "Deutsch",
+    "fluency": "Muttersprache"
+  },
+  {
+    "language": "Englisch",
+    "fluency": "Muttersprache"
+  }],
   "interests": [],
   "references": [],
   "projects": [],
