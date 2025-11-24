@@ -64,6 +64,7 @@ EOF
 
     # Write the styles to a temp file
     cat <<EOF > "$STYLES_FILE"
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <style>
         /* Style for the language switcher container */
         .lang-switcher {
